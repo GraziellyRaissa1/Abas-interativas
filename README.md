@@ -25,3 +25,5 @@ grazyraissa7@gmail.com
 ![Captura de tela 2024-05-10 192346](https://github.com/GraziellyRaissa1/Abas-interativas-JavaScript/assets/147439694/12b19498-dda9-476a-8c33-28b87dd5741d)
 
 ![Captura de tela 2024-05-10 192356](https://github.com/GraziellyRaissa1/Abas-interativas-JavaScript/assets/147439694/3280223e-9a6a-4751-a778-0230c2328fbf)
+
+![Captura de tela 2024-05-10 193035](https://github.com/GraziellyRaissa1/Abas-interativas-JavaScript/assets/147439694/f300eaaf-b955-4470-9f52-b254a3745247)
